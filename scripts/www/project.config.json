@@ -1,0 +1,8 @@
+{
+  "description": "Star Trail 项目配置文件",
+  "setting": {
+    "es6": true
+  },
+  "compileType": "game",
+  "projectname": "startrail"
+}
