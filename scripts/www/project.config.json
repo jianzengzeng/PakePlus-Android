@@ -1,0 +1,8 @@
+{
+  "description": "Neon Break project config",
+  "setting": {
+    "es6": true
+  },
+  "compileType": "game",
+  "projectname": "neonbreak"
+}
